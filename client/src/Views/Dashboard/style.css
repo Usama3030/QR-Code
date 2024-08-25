@@ -1,0 +1,90 @@
+.report-problem-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header-image {
+  width: 100px;
+  height: 100px;
+}
+
+.card-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.card {
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+}
+
+.location-card {
+  background-color: #3c3b6e;
+}
+
+.issue-card {
+  background-color: #3b82f6;
+}
+
+.details-section {
+  margin-bottom: 20px;
+}
+
+.upload-section {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.upload-button {
+  background-color: #f3f3f3;
+  border: 2px dashed #ccc;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.input-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input-field {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.textarea-field {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  height: 100px;
+  resize: none;
+}
+
+.submit-section {
+  text-align: center;
+}
+
+.submit-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

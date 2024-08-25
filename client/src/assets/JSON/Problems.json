@@ -1,0 +1,98 @@
+{
+  "problems": [
+    {
+      "name": "Problem 1",
+      "categories": [
+        {
+          "name": "Mess / Cleanliness",
+          "problems": [
+            {
+              "name": "Wet Floor"
+            },
+            {
+              "name": "room Service"
+            },
+            {
+              "name": "food Quality"
+            }
+          ]
+        },
+        {
+          "name": "Building & Fixtures",
+          "problems": [
+            {
+              "name": "Wet Floor"
+            },
+            {
+              "name": "Light"
+            },
+            {
+              "name": "Nurse Call"
+            },
+            {
+              "name": "Door/Lock/Key"
+            },
+            {
+              "name": "Ceiling"
+            },
+            {
+              "name": "Sink"
+            },
+            {
+              "name": "Ice Machine"
+            },
+            {
+              "name": "Elevator"
+            },
+            {
+              "name": "Pest Control"
+            },
+            {
+              "name": "Too Hot"
+            },
+            {
+              "name": "Too Cold"
+            },
+            {
+              "name": "Move Something"
+            },
+            {
+              "name": "Hang Something"
+            },
+            {
+              "name": "Others"
+            }
+          ]
+        },
+        {
+          "name": "Bed & Bedside",
+          "problems": [
+            {
+              "name": "Move/Remove Something"
+            },
+            {
+              "name": "Light"
+            }
+          ]
+        },
+        {
+          "name": "Computer, Communication, TV & Tech",
+          "problems": [
+            {
+              "name": "Signal Problem"
+            },
+            {
+              "name": "Equipment Problem"
+            },
+            {
+              "name": "Sounding Problem"
+            },
+            {
+              "name": "Visual Problem"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

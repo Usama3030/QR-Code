@@ -1,0 +1,784 @@
+{
+  "locations": [
+    {
+      "name": "BMH Memphis",
+      "areas": [
+        {
+          "name": "Floor 1",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 2",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 3",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 4",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 5",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BMH Crittenden",
+      "areas": [
+        {
+          "name": "Floor 1",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 2",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 3",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 4",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 5",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BMH Tipton",
+      "areas": [
+        {
+          "name": "Floor 1",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 2",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 3",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 4",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 5",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BMH Women's & Children",
+      "areas": [
+        {
+          "name": "Floor 1",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 2",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 3",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 4",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        },
+        {
+          "name": "Floor 5",
+          "sections": [
+            {
+              "name": "East High Hall"
+            },
+            {
+              "name": "East Low Hall"
+            },
+            {
+              "name": "North High Hall"
+            },
+            {
+              "name": "North Low Hall"
+            },
+            {
+              "name": "South High Hall"
+            },
+            {
+              "name": "South Low Hall"
+            },
+            {
+              "name": "West High Hall"
+            },
+            {
+              "name": "West Low Hall"
+            },
+            {
+              "name": "Roof"
+            },
+            {
+              "name": "Cafeteria"
+            },
+            {
+              "name": "Elevators"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
